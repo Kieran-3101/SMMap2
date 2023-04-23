@@ -3,7 +3,7 @@ html, body, #map {
     height:100%;
     margin:0;
     padding:0;
-    background-color: Aqua;
+    background-color: Grass;
     font-family: 'Roboto', sans-serif;
 }
 .cell {
